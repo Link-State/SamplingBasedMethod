@@ -48,11 +48,11 @@
       + 반복 횟수가 20,000번 초과 시, 경로 미존재로 판단하여 종료함
     + 트리 생성 완료 후, 부모 노드로 계속 거슬러 이동하며 경로 탐색함
 
-#### PRM 실행결과
+### PRM 실행결과
 
 https://github.com/user-attachments/assets/65125bc2-cdf1-4d90-a28f-1254252829b3
 
-#### RRT 실행결과
+### RRT 실행결과
 
 https://github.com/user-attachments/assets/65f8fef4-b391-454a-a4f6-8689c9fd3448
 
